@@ -1,2 +1,4 @@
 [project]
+[servers.ghpages]
+target = ghpages://vgainullin/vgainullin.github.io
 name = blog
